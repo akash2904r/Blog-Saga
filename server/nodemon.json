@@ -1,7 +1,0 @@
-{
-    "watch": ["src"],
-    "ext": "ts",
-    "ignore": ["src/**/*.spec.ts"],
-    "exec": "tsc --noEmit && tsx src/index.ts"
-  }
- 
